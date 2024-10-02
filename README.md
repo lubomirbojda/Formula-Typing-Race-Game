@@ -1,1 +1,1 @@
-# Semestralna_praca_Solution
+Semestrálna práca z predmetu C# a .NET.

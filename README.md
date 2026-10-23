@@ -88,8 +88,8 @@ Each time the player presses and releases the key matching the currently highlig
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/lubomirbojda/CS-SEM.git
-   cd CS-SEM
+   git clone https://github.com/lubomirbojda/Formula-Typing-Race-Game
+   cd Formula-Typing-Race-Game
    ```
 
 2. **Open the solution:**
